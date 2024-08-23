@@ -120,6 +120,6 @@ section#img05 {
 footer > p {
     padding: 15px;
     font-weight: bolder;
-    /*font-size: 1.5vw;*/
-    font-size: 15px;
+    font-size: 3vw;
+    /*font-size: 15px;*/
 }
